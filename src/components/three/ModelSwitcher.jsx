@@ -3,7 +3,7 @@ import MacbookModel16 from '../models/Macbook-16';
 import MacbookModel14 from '../models/Macbook-14';
 import gsap from 'gsap';
 import { useRef } from 'react';
-import { xor } from 'three/tsl';
+
 import { useGSAP } from '@gsap/react';
 
 
