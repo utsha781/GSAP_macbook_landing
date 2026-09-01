@@ -17,7 +17,7 @@ import ModelSwitcher from './three/ModelSwitcher';
         <h2>Take a Closer Look.</h2>
 
         <div className="controls">
-            <p className="info">MacbookPro {scale} in {color}</p>
+            {/*<p className="info">MacbookPro Available in 14" & 16" in Space Gray & Dark colors</p>*/}
 
             <div className="flex-center gap-5 mt-5">
                 <div className="color-control">
